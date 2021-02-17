@@ -1,0 +1,16 @@
+export const MetroStations = [
+    { id: 0, station: "Akademmistechko", lat: 50.46, lon: 30.38 },
+    { id: 1, station: "Zhytomyrska", lat: 50.27, lon: 30.21 },
+    { id: 2, station: "Sviatoshyn", lat: 50.27, lon: 30.23 },
+    { id: 4, station: "Nyvky", lat: 50.27, lon: 30.24 },
+    { id: 5, station: "Shuliavska", lat: 50.27, lon: 30.25 },
+    { id: 6, station: "Politekhnichnyi Instytut", lat: 50.27, lon: 30.27 },
+    { id: 7, station: "Teatralna", lat: 50.27, lon: 30.29 },
+    { id: 8, station: "Khreshchatyk", lat: 50.26, lon: 30.31 },
+    { id: 9, station: "Arsenalna", lat: 50.26, lon: 30.32 },
+    { id: 10, station: "Dnipro", lat: 50.26, lon: 30.33 },
+    { id: 11, station: "Hidropark", lat: 50.26, lon: 30.34 },
+    { id: 12, station: "Darnytsia", lat: 50.27, lon: 30.36 },
+    { id: 13, station: "Chernihivska", lat: 50.27, lon: 30.37 },
+    { id: 14, station: "Lisova", lat: 50.27, lon: 30.38 },
+];
