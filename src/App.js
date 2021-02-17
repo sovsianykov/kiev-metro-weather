@@ -1,12 +1,11 @@
 
-import React from "react";
-
+import WeatherCard from "./components/WeatherCard";
 import Home from './components/Home'
 
 function App() {
   return (
     <div className="App">
-        <h1>control build</h1>
+        <WeatherCard/>
       <Home/>
     </div>
   );
