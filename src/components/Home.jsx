@@ -5,7 +5,7 @@ function Home() {
 
     return (
         <>
-            <div className='container justify-content-center d-md-flex' >
+            <div  >
                 <WeatherCard/>
             </div>
 
